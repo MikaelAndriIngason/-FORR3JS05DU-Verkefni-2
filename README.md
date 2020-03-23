@@ -6,8 +6,9 @@
 ### 2.4 QuizApp
 > https://mikaelandriingason.github.io/FORR3JS05DU-Verkefni-2/
 
-# 2.1 Spurningar og svör
 
+
+# 2.1 Spurningar og svör
 ### 1. Afhverju er getElementById() fljótleglegasta aðferðin?
 > Það nær í fyrsta element með ID og stoppar þar, það heldur ekki áfram að leita vegna þess að yfirleitt notar maður bara sérstakt ID einu sinni.
 
