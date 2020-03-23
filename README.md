@@ -16,7 +16,7 @@
 > Til að fá live NodeList þá getur maður notað t.d. document.getElementsByName(), til að fá static NodeList notar maður document.querySelectorAll(). Munurinn er að live NodeList uppfærir sig þegar upplýsingar breytast eða bætast við.
 
 ### 3. Hver er munurinn á true og false í AddEventListener?
->
+> True þýðir að við viljum fá "capture phase" sem þýðir að það kveikjir á öllum events sem koma fyrir eventinu sem við viljum fá, False er default og þar fær maður "bubbling phase" sem þýðir að það byrjar á eventinu sem við viljum fá og fer síðan up!
 
 ### 4. this vísar í Event listener á html element en ekki á object. Þú getur notað bind() til að breyta því. Leystu eftirfarandi kóðadæmi með notkun á bind() til að birta í console “My name is Sam“ en ekki undefined.
 ```
