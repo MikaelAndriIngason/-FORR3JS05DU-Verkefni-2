@@ -7,6 +7,7 @@
 > Til að fá live NodeList þá getur maður notað t.d. document.getElementsByName(), til að fá static NodeList notar maður document.querySelectorAll(). Munurinn er að live NodeList uppfærir sig þegar upplýsingar breytast eða bætast við.
 
 ### Hver er munurinn á true og false í AddEventListener?
+>
 
 ### this vísar í Event listener á html element en ekki á object. Þú getur notað bind() til að breyta því. Leystu eftirfarandi kóðadæmi með notkun á bind() til að birta í console “My name is Sam“ en ekki undefined.
 ```
