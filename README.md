@@ -1,1 +1,2 @@
-# -FORR3JS05DU-Verkefni-2
+# FORR3JS05DU-Verkefni-2
+
